@@ -1,0 +1,136 @@
+/* Generic styling */
+* {
+  box-sizing:border-box;
+}
+html {
+  font: 100% / 250% "Helvetica";
+}
+body {
+  font-size:1.25em;
+  display:flex;
+  flex-direction: column;
+}
+h1 {
+
+}
+h2 {
+
+}
+p {
+
+}
+ul {
+
+}
+li {
+
+}
+a {
+
+}
+a:link {
+
+}
+a:visited {
+
+}
+a:hover, a:focus {
+
+}
+a:active {
+
+}
+button {
+
+}
+
+/* form styling */
+form {
+
+}
+  fieldset {
+
+  }
+    legend {
+
+    }
+    label {
+
+    }
+    input {
+
+    }
+    input:invalid {
+
+    }
+
+/* Section styling */
+
+
+header {
+
+}
+  header h1 {
+
+  }
+
+main {
+
+
+}
+  main button {
+
+  }
+
+
+article {
+
+
+}
+  article header {
+
+  }
+    article header h2 {
+
+    }
+  article section {
+
+  }
+    article section h3 {
+
+    }
+    article section p {
+
+    }
+  article footer {
+
+  }
+section {
+
+}
+aside {
+
+}
+
+footer {
+
+}
+
+/* Component styling */
+section#some-ultra-cool-component {
+
+}
+
+
+/* Breakpoints */
+@media all and (min-width: 30em) {
+
+}
+
+@media all and (min-width: 60em) {
+
+}
+
+@media all and (min-width: 90em) {
+
+}
