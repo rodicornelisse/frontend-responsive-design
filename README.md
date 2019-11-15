@@ -1,7 +1,7 @@
 # frontend-responsive-design
 Opdracht voor het vak Frontend @CMD Amsterdam
 
-[Beschrijf hier wat ij gaat doen]
+[Voor de herkansing van frontend ga ik helemaal overnieuw beginnen. Van vorig jaar heb ik een klein gedeelte van de verhalen website, maar wil hier niet op doorbouwen. Ik ga nu de website https://uxplanet.org/ na bouwen.]
 
 ## Criteria
 ### 1.) De HTML is gestructureerd en semantisch opgemaakt
