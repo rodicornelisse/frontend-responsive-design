@@ -70,51 +70,38 @@ form {
 header {
 
 }
-  header h1 {
 
-  }
-
-main {
-
-
-}
-  main button {
-
-  }
-
-
-article {
-
-
-}
-  article header {
-
-  }
-    article header h2 {
-
-    }
-  article section {
-
-  }
-    article section h3 {
-
-    }
-    article section p {
-
-    }
-  article footer {
-
-  }
 section {
 
 }
-aside {
+
+nav {
 
 }
 
-footer {
+main {
 
 }
+
+  main section {
+
+  }
+
+    main section h1 {
+
+    }
+
+  main section article {
+
+  }
+
+    main section article img {
+
+    }
+
+  main section aside {
+
+  }
 
 /* Component styling */
 section#some-ultra-cool-component {
